@@ -2,7 +2,7 @@
 
 
 ## Definición
-Una **antiderivada** de una función $y=f(x)$ es una función $y=F(x)$ derivable que cumple $\displaystyle \frac{dF}{dx}=f(x)$
+Una **antiderivada** de una función \(y=f(x)\) es una función $y=F(x)$ derivable que cumple $\displaystyle \frac{dF}{dx}=f(x)$
 
 **Observación** Las antiderivadas no son únicas. En efecto, si $y=F(x)$ es una antiderivada de $y=f(x)$, entonces $y=G(x)=F(x)+K$ también lo es, ya que:
 
